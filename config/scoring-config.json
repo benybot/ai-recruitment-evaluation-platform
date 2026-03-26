@@ -1,0 +1,8 @@
+{
+  "weights": {
+    "skills": 0.35,
+    "experience": 0.25,
+    "video": 0.2,
+    "assessment": 0.2
+  }
+}
